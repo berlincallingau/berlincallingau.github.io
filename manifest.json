@@ -1,15 +1,1 @@
-{
-  "name": "BERLIN CALLING!",
-  "short_name": "BerlinCalling",
-  "start_url": "/",
-  "display": "standalone",
-  "theme_color": "#ff00b4",
-  "background_color": "#fff",
-  "icons": [
-    {
-      "src": "/favicon.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
-  ]
-}
+{"name":"BERLIN CALLING!","short_name":"BerlinCalling","start_url":"/","display":"standalone","theme_color":"#ff00b4","background_color":"#fff","icons":[{"src":"/favicon.png","sizes":"512x512","type":"image/png"}]}
