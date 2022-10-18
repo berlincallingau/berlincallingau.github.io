@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>BERLIN CALLING!</title>
-  <subtitle>Super-fast Jekyll framework</subtitle>
-  <updated>2022-10-09T23:19:05+00:00</updated>
+  <subtitle>Super-fun Parties</subtitle>
+  <updated>2022-10-18T14:22:26+00:00</updated>
   <id>http://0.0.0.0:4321/</id>
   <generator uri="https://sparanoid.com/lab/amsf/" version="2.0.22">Almace Scaffolding</generator>
 
@@ -21,13 +21,13 @@
       
 
       <entry>
-        <title>Upgrading Guide from v1 to v2</title>
+        <title>party1</title>
         <id>http://0.0.0.0:4321/upgrading-from-v1-to-v2.html</id>
         <link rel="alternate" type="text/html" href="http://0.0.0.0:4321/upgrading-from-v1-to-v2.html" />
         <published>2018-07-23T00:00:00+00:00</published>
 
         
-          <updated>2022-10-07T03:50:45+00:00</updated>
+          <updated>2022-10-18T13:14:28+00:00</updated>
         
 
         <author>
@@ -76,13 +76,13 @@
       
 
       <entry>
-        <title>Upgrading Guide: v1.1.0</title>
+        <title>party2</title>
         <id>http://0.0.0.0:4321/upgrading-guide-v1.1.0.html</id>
         <link rel="alternate" type="text/html" href="http://0.0.0.0:4321/upgrading-guide-v1.1.0.html" />
         <published>2017-01-07T00:00:00+00:00</published>
 
         
-          <updated>2022-10-07T03:50:45+00:00</updated>
+          <updated>2022-10-18T12:21:32+00:00</updated>
         
 
         <author>
@@ -182,13 +182,13 @@
       
 
       <entry>
-        <title>Jekyll Theme Compatibility</title>
+        <title>titit</title>
         <id>http://0.0.0.0:4321/jekyll-theme-compatibility.html</id>
         <link rel="alternate" type="text/html" href="http://0.0.0.0:4321/jekyll-theme-compatibility.html" />
         <published>2016-11-07T00:00:00+00:00</published>
 
         
-          <updated>2022-10-07T03:50:45+00:00</updated>
+          <updated>2022-10-18T12:22:19+00:00</updated>
         
 
         <author>
@@ -345,13 +345,13 @@
       
 
       <entry>
-        <title>Multiple Themes Support</title>
+        <title>partyy</title>
         <id>http://0.0.0.0:4321/multiple-themes-support.html</id>
         <link rel="alternate" type="text/html" href="http://0.0.0.0:4321/multiple-themes-support.html" />
         <published>2015-08-18T00:00:00+00:00</published>
 
         
-          <updated>2022-10-07T03:50:45+00:00</updated>
+          <updated>2022-10-18T13:14:43+00:00</updated>
         
 
         <author>

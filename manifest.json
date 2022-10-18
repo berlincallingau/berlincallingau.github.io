@@ -1,6 +1,6 @@
 {
   "name": "BERLIN CALLING!",
-  "short_name": "BerCal",
+  "short_name": "BerlinCalling",
   "start_url": "/",
   "display": "standalone",
   "theme_color": "#ff00b4",
