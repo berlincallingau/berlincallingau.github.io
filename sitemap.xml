@@ -1,1 +1,96 @@
-<?xml version="1.0" encoding="utf-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://berlincalling.com.au/</loc><lastmod>2022-10-18</lastmod></url><url><loc>https://berlincalling.com.au/dance/</loc><lastmod>2022-10-18</lastmod></url><url><loc>https://berlincalling.com.au/</loc><lastmod>2022-10-18</lastmod></url><url><loc>https://berlincalling.com.au/dance/</loc><lastmod>2022-10-18</lastmod></url><url><loc>https://berlincalling.com.au/whowhat/</loc><lastmod>2022-10-18</lastmod></url><url><loc>https://berlincalling.com.au/upgrading-from-v1-to-v2.html</loc><lastmod>2022-10-18</lastmod></url><url><loc>https://berlincalling.com.au/upgrading-guide-v1.1.0.html</loc><lastmod>2022-10-18</lastmod></url><url><loc>https://berlincalling.com.au/jekyll-theme-compatibility.html</loc><lastmod>2022-10-18</lastmod></url><url><loc>https://berlincalling.com.au/multiple-themes-support.html</loc><lastmod>2022-10-18</lastmod></url></urlset>
+<?xml version="1.0" encoding="utf-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://0.0.0.0:4321/</loc>
+    <lastmod>2022-10-19</lastmod>
+  </url>
+
+  
+    
+      <url>
+        <loc>http://0.0.0.0:4321/dance/</loc>
+        
+          <lastmod>2022-10-19</lastmod>
+        
+      </url>
+    
+  
+    
+  
+    
+      <url>
+        <loc>http://0.0.0.0:4321/example-about/</loc>
+        
+          <lastmod>2022-10-19</lastmod>
+        
+      </url>
+    
+  
+    
+  
+    
+      <url>
+        <loc>http://0.0.0.0:4321/</loc>
+        
+          <lastmod>2022-10-19</lastmod>
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>http://0.0.0.0:4321/contact/</loc>
+        
+          <lastmod>2022-10-19</lastmod>
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>http://0.0.0.0:4321/whowhat/</loc>
+        
+          <lastmod>2022-10-19</lastmod>
+        
+      </url>
+    
+  
+
+  
+    
+      <url>
+        <loc>http://0.0.0.0:4321/upgrading-from-v1-to-v2.html</loc>
+        
+          <lastmod>2022-10-18</lastmod>
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>http://0.0.0.0:4321/upgrading-guide-v1.1.0.html</loc>
+        
+          <lastmod>2022-10-18</lastmod>
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>http://0.0.0.0:4321/jekyll-theme-compatibility.html</loc>
+        
+          <lastmod>2022-10-18</lastmod>
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>http://0.0.0.0:4321/multiple-themes-support.html</loc>
+        
+          <lastmod>2022-10-18</lastmod>
+        
+      </url>
+    
+  
+
+</urlset>

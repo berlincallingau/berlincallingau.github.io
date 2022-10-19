@@ -1,4 +1,42 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><title>BERLIN CALLING!</title><subtitle>Super-fun Parties</subtitle><updated>2022-10-18T14:42:42+00:00</updated><id>https://berlincalling.com.au/</id><generator uri="https://sparanoid.com/lab/amsf/" version="2.0.22">Almace Scaffolding</generator><link rel="alternate" type="text/html" hreflang="en" href="https://berlincalling.com.au/" /><link rel="self" type="application/atom+xml" href="https://berlincalling.com.au/feed.xml" /><author><name>Tunghsiao Liu</name><uri>https://berlincalling.com.au/</uri><email>t@sparanoid.com</email></author><entry><title>party1</title><id>https://berlincalling.com.au/upgrading-from-v1-to-v2.html</id><link rel="alternate" type="text/html" href="https://berlincalling.com.au/upgrading-from-v1-to-v2.html" /><published>2018-07-23T00:00:00+00:00</published><updated>2022-10-18T13:14:28+00:00</updated><author><name>Tunghsiao Liu</name><uri>https://sparanoid.com/</uri><email>t@sparanoid.com</email></author><content type="html" xml:base="https://berlincalling.com.au/">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>BERLIN CALLING!</title>
+  <subtitle>Super-fun Parties</subtitle>
+  <updated>2022-10-19T03:58:16+00:00</updated>
+  <id>http://0.0.0.0:4321/</id>
+  <generator uri="https://sparanoid.com/lab/amsf/" version="2.0.22">Almace Scaffolding</generator>
+
+  <link rel="alternate" type="text/html" hreflang="en" href="http://0.0.0.0:4321/" />
+  <link rel="self" type="application/atom+xml" href="http://0.0.0.0:4321/feed.xml" />
+
+  <author>
+    <name>Tunghsiao Liu</name>
+    <uri>http://0.0.0.0:4321/</uri>
+    <email>t@sparanoid.com</email>
+  </author>
+
+  
+    
+      
+
+      
+
+      <entry>
+        <title>party1</title>
+        <id>http://0.0.0.0:4321/upgrading-from-v1-to-v2.html</id>
+        <link rel="alternate" type="text/html" href="http://0.0.0.0:4321/upgrading-from-v1-to-v2.html" />
+        <published>2018-07-23T00:00:00+00:00</published>
+
+        
+          <updated>2022-10-18T13:14:28+00:00</updated>
+        
+
+        <author>
+          <name>Tunghsiao Liu</name>
+          <uri>https://sparanoid.com/</uri>
+          <email>t@sparanoid.com</email>
+        </author>
+
+        <content type="html" xml:base="http://0.0.0.0:4321/">
           
             &lt;p&gt;Almace Scaffolding now migrates from Less to Sass, this may make your existing projects non-upgradable, it needs quite a lot of work for you to do the migration if you use a custom theme that it’s powered by Less preprocessor. You have to compare your existing projects to &lt;a href=&quot;https://github.com/sparanoid/almace-scaffolding/pull/85&quot;&gt;this Pull Request&lt;/a&gt; side to side to make sure every change you made are synced correctly.&lt;/p&gt;
 
@@ -24,7 +62,36 @@
           
         
       
-        </content><summary>Almace Scaffolding now migrates from Less to Sass, this may make your existing projects non-upgradable, it needs quite a lot of work for you to do the migration if you use a custom theme that it’s powered by Less preprocessor. You have to compare your existing projects to this Pull Request side to side to make sure every change you made are synced correctly.</summary></entry><entry><title>party2</title><id>https://berlincalling.com.au/upgrading-guide-v1.1.0.html</id><link rel="alternate" type="text/html" href="https://berlincalling.com.au/upgrading-guide-v1.1.0.html" /><published>2017-01-07T00:00:00+00:00</published><updated>2022-10-18T12:21:32+00:00</updated><author><name>Tunghsiao Liu</name><uri>https://sparanoid.com/</uri><email>t@sparanoid.com</email></author><content type="html" xml:base="https://berlincalling.com.au/">
+        </content>
+
+        
+          <summary>Almace Scaffolding now migrates from Less to Sass, this may make your existing projects non-upgradable, it needs quite a lot of work for you to do the migration if you use a custom theme that it’s powered by Less preprocessor. You have to compare your existing projects to this Pull Request side to side to make sure every change you made are synced correctly.</summary>
+        
+      </entry>
+    
+  
+    
+      
+
+      
+
+      <entry>
+        <title>party2</title>
+        <id>http://0.0.0.0:4321/upgrading-guide-v1.1.0.html</id>
+        <link rel="alternate" type="text/html" href="http://0.0.0.0:4321/upgrading-guide-v1.1.0.html" />
+        <published>2017-01-07T00:00:00+00:00</published>
+
+        
+          <updated>2022-10-18T12:21:32+00:00</updated>
+        
+
+        <author>
+          <name>Tunghsiao Liu</name>
+          <uri>https://sparanoid.com/</uri>
+          <email>t@sparanoid.com</email>
+        </author>
+
+        <content type="html" xml:base="http://0.0.0.0:4321/">
           
             &lt;p&gt;There’re some significant changes in update v1.1.0, action required after you upgrade Almace Scaffolding.&lt;/p&gt;
 
@@ -49,7 +116,36 @@
           
         
       
-        </content><summary>There’re some significant changes in update v1.1.0, action required after you upgrade Almace Scaffolding.</summary></entry><entry><title>titit</title><id>https://berlincalling.com.au/jekyll-theme-compatibility.html</id><link rel="alternate" type="text/html" href="https://berlincalling.com.au/jekyll-theme-compatibility.html" /><published>2016-11-07T00:00:00+00:00</published><updated>2022-10-18T12:22:19+00:00</updated><author><name>Tunghsiao Liu</name><uri>https://sparanoid.com/</uri><email>t@sparanoid.com</email></author><content type="html" xml:base="https://berlincalling.com.au/">
+        </content>
+
+        
+          <summary>There’re some significant changes in update v1.1.0, action required after you upgrade Almace Scaffolding.</summary>
+        
+      </entry>
+    
+  
+    
+      
+
+      
+
+      <entry>
+        <title>titit</title>
+        <id>http://0.0.0.0:4321/jekyll-theme-compatibility.html</id>
+        <link rel="alternate" type="text/html" href="http://0.0.0.0:4321/jekyll-theme-compatibility.html" />
+        <published>2016-11-07T00:00:00+00:00</published>
+
+        
+          <updated>2022-10-18T12:22:19+00:00</updated>
+        
+
+        <author>
+          <name>Tunghsiao Liu</name>
+          <uri>https://sparanoid.com/</uri>
+          <email>t@sparanoid.com</email>
+        </author>
+
+        <content type="html" xml:base="http://0.0.0.0:4321/">
           
             &lt;p&gt;With the recent release of Jekyll, it gets the built-in ability to support &lt;a href=&quot;https://jekyllrb.com/docs/themes/&quot;&gt;themes&lt;/a&gt;, since we’ve already added theme support in 2015, the original config variables &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;theme&lt;/code&gt; would be conflicted with the built-in one.&lt;/p&gt;
 
@@ -65,7 +161,36 @@
           
         
       
-        </content><summary>With the recent release of Jekyll, it gets the built-in ability to support themes, since we’ve already added theme support in 2015, the original config variables theme would be conflicted with the built-in one.</summary></entry><entry><title>partyy</title><id>https://berlincalling.com.au/multiple-themes-support.html</id><link rel="alternate" type="text/html" href="https://berlincalling.com.au/multiple-themes-support.html" /><published>2015-08-18T00:00:00+00:00</published><updated>2022-10-18T13:14:43+00:00</updated><author><name>Tunghsiao Liu</name><uri>https://sparanoid.com/</uri><email>t@sparanoid.com</email></author><content type="html" xml:base="https://berlincalling.com.au/">
+        </content>
+
+        
+          <summary>With the recent release of Jekyll, it gets the built-in ability to support themes, since we’ve already added theme support in 2015, the original config variables theme would be conflicted with the built-in one.</summary>
+        
+      </entry>
+    
+  
+    
+      
+
+      
+
+      <entry>
+        <title>partyy</title>
+        <id>http://0.0.0.0:4321/multiple-themes-support.html</id>
+        <link rel="alternate" type="text/html" href="http://0.0.0.0:4321/multiple-themes-support.html" />
+        <published>2015-08-18T00:00:00+00:00</published>
+
+        
+          <updated>2022-10-18T13:14:43+00:00</updated>
+        
+
+        <author>
+          <name>Tunghsiao Liu</name>
+          <uri>https://sparanoid.com/</uri>
+          <email>t@sparanoid.com</email>
+        </author>
+
+        <content type="html" xml:base="http://0.0.0.0:4321/">
           
             &lt;p&gt;From version 0.0.31, you can now use multiple themes in Almace Scaffolding. See &lt;a href=&quot;/themes.html&quot;&gt;Themes&lt;/a&gt; for more information.&lt;/p&gt;
 
@@ -73,4 +198,12 @@
           
         
       
-        </content><summary>From version 0.0.31, you can now use multiple themes in Almace Scaffolding. See Themes for more information.</summary></entry></feed>
+        </content>
+
+        
+          <summary>From version 0.0.31, you can now use multiple themes in Almace Scaffolding. See Themes for more information.</summary>
+        
+      </entry>
+    
+  
+</feed>
